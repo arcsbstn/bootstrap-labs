@@ -1,2 +1,3 @@
-# bootstrap-labs
-Experiments with Bootstrap 5.
+# Bootstrap Labs
+
+Experiments using Bootstrap 5.

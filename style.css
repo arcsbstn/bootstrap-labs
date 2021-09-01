@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+[class*="con"] {
+  background-color: rgb(191,229,217);
+  margin: 5px auto;
+  border: 1px solid darkolivegreen;
+}
+
+[class*="row"] {
+  background-color: rgb(204,105,85);
+  border: 2px dotted darkolivegreen;
+}
+
+[class*="col"] {
+  background-color: rgb(242, 182, 85);
+  border: 1px solid lightgoldenrodyellow;
+}
+
+section {
+  margin: 20px auto;
+}
